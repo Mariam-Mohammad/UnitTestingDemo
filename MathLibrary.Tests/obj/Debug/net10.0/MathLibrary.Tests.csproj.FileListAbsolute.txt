@@ -98,3 +98,4 @@ C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net10.
 C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net10.0\MathLibrary.Tests.pdb
 C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net10.0\MathLibrary.Tests.genruntimeconfig.cache
 C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net10.0\ref\MathLibrary.Tests.dll
+C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary.Tests\obj\Debug\net10.0\MathLibrary.Tests.sourcelink.json

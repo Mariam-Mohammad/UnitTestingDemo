@@ -9,3 +9,4 @@ C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary\obj\Debug\net10.0\Math
 C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary\obj\Debug\net10.0\refint\MathLibrary.dll
 C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary\obj\Debug\net10.0\MathLibrary.pdb
 C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary\obj\Debug\net10.0\ref\MathLibrary.dll
+C:\Users\Laptopi-Homs\Desktop\UnitTestingDemo\MathLibrary\obj\Debug\net10.0\MathLibrary.sourcelink.json
